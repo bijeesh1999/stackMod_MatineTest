@@ -53,8 +53,8 @@ function QuestionPage() {
     question[0]?.map((data, index) => {
       if (index === qindex) {
         setSingleQ(data);
-       const newarr =  [...formik.values.answers]
-        newarr.push({answer:""})
+    //    const newarr =  [...formik.values.answers]
+    //     newarr.push({answer:""})
 
       }
     });
