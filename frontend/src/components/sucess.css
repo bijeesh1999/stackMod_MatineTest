@@ -1,0 +1,27 @@
+
+  .success-message {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 45rem;
+    margin: auto;
+  }
+  h2 {
+    margin-bottom: 20px;
+  }
+  p {
+    margin-bottom: 20px;
+  }
+  a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  a:hover {
+    background-color: #0056b3;
+  }
